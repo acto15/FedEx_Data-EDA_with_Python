@@ -1,6 +1,7 @@
 # FedEx EDA with Python
 
 
+I have explained my project here [Video_Presentation](https://drive.google.com/file/d/1UDuBGaxq9hKHWLVXRV4feCDB_BfjZ-rc/view?usp=sharing)
 
 ## Project Overview
 A data-driven exploration of FedEx shipment records using Python to uncover operational patterns, vendor performance, and regional shipment insights.
@@ -41,3 +42,10 @@ The project delivers actionable insights through 13 detailed visualizations and 
 ## Conclusion
 Through methodical data cleaning, insightful visualizations, and structured storytelling, this project helped uncover FedEx’s shipment patterns, vendor dynamics, and data quality issues.  
 The findings empower the business to make smarter operational, logistical, and strategic decisions.
+
+---
+## Author - Sam Arnon
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/samarnon-dataanalyst/)
+
+Thank you, and I look forward to connecting with you!
+
