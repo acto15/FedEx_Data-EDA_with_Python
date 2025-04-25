@@ -28,13 +28,13 @@ The project delivers actionable insights through 13 detailed visualizations and 
 ## Skills Used
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-130754?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B8E?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-119DA4?style=for-the-badge&logo=plotly&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-0077B6?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-57CC99?style=for-the-badge)
-![Visualization](https://img.shields.io/badge/Visualization-FFC107?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-E34BAF?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F61?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-7BC96F?style=for-the-badge&logo=seaborn&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-FF914D?style=for-the-badge&logo=plotly&logoColor=black)
+![EDA](https://img.shields.io/badge/EDA-9C27B0?style=for-the-badge&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-00C49A?style=for-the-badge&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-FFCD00?style=for-the-badge&logoColor=black)
 
 
 
